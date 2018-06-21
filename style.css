@@ -7,5 +7,5 @@ table{
   padding:15px;
 }
 .spacing{
-  border-spacing:10px;
+  border-spacing:10px 1rem;
 }
